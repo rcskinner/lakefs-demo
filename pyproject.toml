@@ -6,8 +6,11 @@ authors = ["Ryan Skinner"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+lakefs-client = "^0.62.0"
 
 [tool.poetry.dev-dependencies]
+jupyterlab = "^3.3.3"
+
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
