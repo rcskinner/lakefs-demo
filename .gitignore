@@ -1,6 +1,7 @@
 # pyenv version definition
 .python-version
 stock-data/
+deployment/deploy-photos
 
 Skip to content
 Pull requests
