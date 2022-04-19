@@ -7,6 +7,7 @@ authors = ["Ryan Skinner"]
 [tool.poetry.dependencies]
 python = "^3.9"
 lakefs-client = "^0.62.0"
+boto3 = "^1.21.42"
 
 [tool.poetry.dev-dependencies]
 jupyterlab = "^3.3.3"
